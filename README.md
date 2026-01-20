@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Ayang.;A+Front-End+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com/?font=Oxanium&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Ayang;Web+Developer;Welcome+to+my+GitHub!
 
 
 ### 📫 Contact
