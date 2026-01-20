@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/?font=Oxanium&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Ayang;Web+Developer;Welcome+to+my+GitHub!
+https://readme-typing-svg.demolab.com/?font=Oxanium&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=嗨+👋;I'm+MZYang223;Web+Developer;Welcome+to+my+GitHub!
 
 
 ### 📫 Contact
